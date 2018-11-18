@@ -6,6 +6,7 @@ public class compressclient {
 		HEncoder h= new HEncoder("aaaabbbcccccccccccdddd");
 		System.out.println(h.compress("aabccd"));
 		System.out.println(h.decompress("101011000111"));
+		1111111;
 	}
 
 }
